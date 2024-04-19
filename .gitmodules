@@ -1,0 +1,6 @@
+[submodule "dictionary"]
+	path = dictionary
+	url = https://github.com/nikhilojha22/dictionary
+[submodule "nikhil-ojha"]
+	path = nikhil-ojha
+	url = git@github.com:nikhilojha22/nikhil-ojha.git
